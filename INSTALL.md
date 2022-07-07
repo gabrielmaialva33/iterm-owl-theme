@@ -3,7 +3,7 @@
 #### Install
 
 1. Download the latest version
-   of [`Omni.itermcolors`](https://github.com/gabrielmaialva33/iterm-owl-theme/releases/latest/download/OmniOwl.itermcolors)
+   of [`OmniOwl.itermcolors`](https://github.com/gabrielmaialva33/iterm-owl-theme/releases/latest/download/OmniOwl.itermcolors)
    .
 2. Go to _`iTerm2 > Preferences > Profiles > Colors Tab`_.
 3. Open the _`Color Presets...`_ (drop-down in the bottom right corner).
